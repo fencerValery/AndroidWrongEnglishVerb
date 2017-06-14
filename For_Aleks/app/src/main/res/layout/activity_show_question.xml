@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="top"
+    android:orientation="vertical"
+    android:background="@color/colorForQuestion"
+    tools:context="by.beltel.klim.for_aleks.ShowQuestionActivity"
+    android:weightSum="1">
+
+    <Button
+        android:id="@+id/button_show_results"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:text="@string/show_results"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:id="@+id/fieldNumberQuestion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.06"
+        android:text="@string/field_number_question"
+        android:textColor="@color/hello_aleks"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/fieldQuestion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.10"
+        android:text="@string/field_question"
+        android:textColor="@color/hello_aleks"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/fieldAnswer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.09"
+        android:background="@color/colorEditText"
+        android:hint="@string/enter_your_answer"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/buttonNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_next"
+        android:background="@color/valery"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textview1"
+        android:text="1234"
+        android:layout_width="357dp"
+        android:layout_height="25dp" />
+
+    <TextView
+        android:id="@+id/textview2"
+        android:text="1234"
+        android:layout_width="357dp"
+        android:layout_height="25dp" />
+
+    <TextView
+        android:id="@+id/numberResultForQuestion"
+        android:text="0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.25" />
+
+
+</LinearLayout>

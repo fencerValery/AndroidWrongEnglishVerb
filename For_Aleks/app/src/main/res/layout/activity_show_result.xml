@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorForResult"
+    tools:context="by.beltel.klim.for_aleks.ShowResultActivity"
+    android:weightSum="1">
+
+     <LinearLayout
+         android:orientation="vertical"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_weight="0.86"
+         android:weightSum="1">
+
+         <TextView
+             android:id="@+id/numberResult"
+             android:layout_width="match_parent"
+             android:layout_height="63dp"
+             android:text="12345"
+             android:textColor="@color/text"
+             android:textSize="24sp"
+             android:textStyle="italic" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="81dp"
+                android:weightSum="1"
+                android:layout_weight="0.62">
+
+                <Button
+                    android:id="@+id/button_review"
+                    android:layout_width="63dp"
+                    android:layout_height="130dp"
+                    android:drawableLeft="@drawable/arrow_left"
+                    android:text="@string/button_next"
+                    android:drawableRight="@drawable/arrow_right"
+                    android:drawablePadding="4dp"/>
+
+                <TextView
+                    android:id="@+id/rigthAnswer"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/show_rigth_question"
+                    android:textColor="@color/green"
+                    android:textSize="18sp" />
+
+
+            </LinearLayout>
+
+
+         <LinearLayout
+             android:orientation="horizontal"
+             android:layout_width="match_parent"
+             android:layout_height="91dp"
+             android:weightSum="1"
+             android:layout_weight="0.62">
+
+             <Button
+                 android:id="@+id/button_review1"
+                 android:layout_width="63dp"
+                 android:layout_height="133dp"
+                 android:drawableLeft="@drawable/arrow_left"
+                 android:text="@string/button_next"
+                 android:drawableRight="@drawable/arrow_right"
+                 android:drawablePadding="4dp"/>
+
+             <TextView
+                 android:id="@+id/wrongAnswer"
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent"
+                 android:layout_weight="1"
+                 android:text="@string/show_wrong_question"
+                 android:textColor="@color/hello_aleks"
+                 android:textSize="18sp" />
+
+
+
+
+         </LinearLayout>
+
+
+
+     </LinearLayout>
+</LinearLayout>

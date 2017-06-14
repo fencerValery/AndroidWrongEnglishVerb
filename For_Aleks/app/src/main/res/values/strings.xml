@@ -1,0 +1,222 @@
+<resources>
+    <string name="app_name">For_Aleks</string>
+    <string name="hello_aleks">Hello!</string>
+    <string name="for_aleks">My name Valery.</string>
+    <string name="insruction">Learn russian translation, first, second, third  forms of 199 verbs before starting test.
+    If you are ready, pusn button start and start the test.</string>
+    <string name="for_aleks1">I have fifteen guestion for you.</string>
+    <string name="for_aleks2">For starting push the button start.</string>
+    <string name="start">START</string>
+    <string-array name="array_verb">
+        <item>Терпеть abode abode abode</item>
+        <item>Возникать arose arose arisen</item>
+        <item>Будить arise awoke awoken</item>
+        <item>Проснуться arise awoke awoken</item>
+        <item>Быть be was been</item>
+        <item>Выносить bear bore borne</item>
+        <item>Бить beat beat beaten</item>
+        <item>Начинать begin began begun</item>
+        <item>Созерцать behold beheld beheld</item>
+        <item>Сгибать bend bent bent</item>
+        <item>Лишать bereave bereft bereft</item>
+        <item>Просить beseech besought besought</item>
+        <item>Окружать beset beset beset</item>
+        <item>Поспорить bet bet bet</item>
+        <item>Приказать bid bid bidden</item>
+        <item>Связывать bind bound bound</item>
+        <item>Кусать bite bit bitten</item>
+        <item>Кровоточить bleed bled bled</item>
+        <item>Дуть blow blew blown</item>
+        <item>Ломать break broke broken</item>
+        <item>Разводить breed bred bred</item>
+        <item>Приносить bring brought brought</item>
+        <item>Запугивать browbeat browbeat browbeaten</item>
+        <item>Строить build built built</item>
+        <item>Гореть burn burnt burnt</item>
+        <item>Разразиться burst burst burst</item>
+        <item>Разориться bust busted busted</item>
+        <item>Покупать buy bought bought</item>
+        <item>Выкинуть cast cast cast</item>
+        <item>Ловить catch caught caught</item>
+        <item>Раскалывать cleave cleft cleft</item>
+        <item>Цепляться cling clung clung</item>
+        <item>Одевать clothe clothed clothed</item>
+        <item>Приходить come came come</item>
+        <item>Стоить cost cost cost</item>
+        <item>Ползать creep crept crept</item>
+        <item>Резать cut cut cut</item>
+        <item>Иметь_дело deal dealt dealt</item>
+        <item>Копать dig dug dug</item>
+        <item>Опровергать disprove disproved disproved</item>
+        <item>Нырять dive dived dived</item>
+        <item>Делать do did done</item>
+        <item>Рисовать draw drew drawn</item>
+        <item>Мечтать dream dreamt dreamt</item>
+        <item>Пить drink drank drunk</item>
+        <item>Водить drive drove driven</item>
+        <item>Проживать dwell dwelt dwelt</item>
+        <item>Есть eat ate eaten</item>
+        <item>Падать fall fell fallen</item>
+        <item>Кормить feed fed fed</item>
+        <item>Чувствовать feel felt felt</item>
+        <item>Бороться fight fought fought</item>
+        <item>Находить find found found</item>
+        <item>Подходить_по_размеру fit fit fit</item>
+        <item>Исчезать flee fled fled</item>
+        <item>Кидать fling flung flung</item>
+        <item>Летать fly flew flown</item>
+        <item>Запрещать forbid forbade forbidden</item>
+        <item>Отказываться forgo forewent foregone</item>
+        <item>Прогнозировать forecast forecast forecast</item>
+        <item>Предвидеть foresee foresaw foreseen</item>
+        <item>Предсказывать foretell foretold foretold</item>
+        <item>Забывать forget forgot forgotten</item>
+        <item>Прощать forgive forgave forgiven</item>
+        <item>Покидать forsake forsook forsaken</item>
+        <item>Замерзать freeze froze frozen</item>
+        <item>Получать get got got</item>
+        <item>Золотить gild gilt gilt</item>
+        <item>Давать give gave given</item>
+        <item>Идти go went gone</item>
+        <item>Молоть grind ground ground</item>
+        <item>Перемалывать grind ground ground</item>
+        <item>Расти grow grew grown</item>
+        <item>Вешать hang hung hung</item>
+        <item>Иметь have had had</item>
+        <item>Слышать hear heard heard</item>
+        <item>Прятать hide hid hidden</item>
+        <item>Тянуть heave heaved heaved</item>
+        <item>Тужиться heave heaved heaved</item>
+        <item>Рубить hew hewed hewed</item>
+        <item>Попадать_в_цель hit hit hit</item>
+        <item>Скрывать hide hid hidden</item>
+        <item>Держать hold held held</item>
+        <item>Ушибить hurt hurt hurt</item>
+        <item>Вкладывать(деньги) inlay inlaid inlaid</item>
+        <item>Ввести input input input</item>
+        <item>Вплетать interweave interwove interwoven</item>
+        <item>Содержать keep kept kept</item>
+        <item>Стоять_на_коленях kneel knelt knelt</item>
+        <item>Вязать knit knit knit</item>
+        <item>Знать know knew known</item>
+        <item>Класть lay laid laid</item>
+        <item>Наклоняться lean leant leant</item>
+        <item>Скакать leap leapt leapt</item>
+        <item>Учить learn learnt learnt</item>
+        <item>Оставлять leave left left</item>
+        <item>Занимать lend lent lent</item>
+        <item>Лежать lie lay lain</item>
+        <item>Освещать light lit lit</item>
+        <item>Терять lose lost lost</item>
+        <item>Производить make made made</item>
+        <item>Значить mean meant meant</item>
+        <item>Встречать meet met met</item>
+        <item>Ошибаться mistake mistook mistaken</item>
+        <item>Стричь mow mowed mown</item>
+        <item>Преодолеть overcome overcame overcome</item>
+        <item>Платить pay paid paid</item>
+        <item>Умолять plead pleaded pleaded</item>
+        <item>Доказывать prove proved proven</item>
+        <item>Положить put put put</item>
+        <item>Выходить quit quit quit</item>
+        <item>Читать read read read</item>
+        <item>Передавать relay relayed relayed</item>
+        <item>Транслировать relay relayed relayed</item>
+        <item>Избавлять rid rid rid</item>
+        <item>Ездить_верхом ride rode ridden</item>
+        <item>Звенеть ring rang rung</item>
+        <item>Подниматься rise rose risen</item>
+        <item>Бежать run ran run</item>
+        <item>Пилить saw sawed sawed</item>
+        <item>Говорить say said said</item>
+        <item>Видеть see saw seen</item>
+        <item>Продавать sell sold sold</item>
+        <item>Посылать send sent sent</item>
+        <item>Ставить set set set</item>
+        <item>Шить sew sewed sewn</item>
+        <item>Встряхивать shake shook shaken</item>
+        <item>Брить shave shaved shaved</item>
+        <item>Срезать shear sheared sheared</item>
+        <item>Терять shed shed shed</item>
+        <item>Светить shine shone shone</item>
+        <item>Гадить shit shit shit</item>
+        <item>Обувать shoe shod shod</item>
+        <item>Стрелять shoot shot shot</item>
+        <item>Показывать show showed shown</item>
+        <item>Закрывать shut shut shut</item>
+        <item>Петь sing sang sung</item>
+        <item>Тонуть sink sank sunk</item>
+        <item>Сидеть sit sat sat</item>
+        <item>Умерщвлять slay slew slain</item>
+        <item>Спать sleep slept slept</item>
+        <item>Скользить slide slid slid</item>
+        <item>Повесить sling slung slung</item>
+        <item>Ускользать slink slinked slinked</item>
+        <item>Разрезать slit slit slit</item>
+        <item>Пахнуть smell smelt smelt</item>
+        <item>Поражать smite smote smitten</item>
+        <item>Сеять sow sowed sown</item>
+        <item>Говорить speak spoke spoken</item>
+        <item>Мчаться speed sped sped</item>
+        <item>Произносить_по_буквам spell spelt spelt</item>
+        <item>Тратить spend spent spent</item>
+        <item>Проливать spill spilt spilt</item>
+        <item>Вертеть spin spun spun</item>
+        <item>Плевать spit spit spit</item>
+        <item>Разделять split split split</item>
+        <item>Портить spoil spoilt spoilt</item>
+        <item>Расстилать spread spread spread</item>
+        <item>Прыгать spring sprang sprung</item>
+        <item>Стоять stand stood stood</item>
+        <item>Красть steal stole stolen</item>
+        <item>Колоть stick stuck stuck</item>
+        <item>Жалить sting stung stung</item>
+        <item>Вонять stink stank stunk</item>
+        <item>Посыпать strew strewed strewn</item>
+        <item>Шагать stride strode stridden</item>
+        <item>Бить strike struck struck</item>
+        <item>Вешать string strung strung</item>
+        <item>Пытаться strive strove strove</item>
+        <item>Присягать swear swore sworn</item>
+        <item>Потеть sweat sweat sweat</item>
+        <item>Выметать sweep swept swept</item>
+        <item>Разбухать swell swelled swollen</item>
+        <item>Плавать swim swam swum</item>
+        <item>Брать take took taken</item>
+        <item>Учить teach taught taught</item>
+        <item>Рвать tear tore torn</item>
+        <item>Рассказывать tell told told</item>
+        <item>Думать think thought thought</item>
+        <item>Бросать throw threw thrown</item>
+        <item>Засовывать thrust thrust thrust</item>
+        <item>Давить tread trod trodden</item>
+        <item>Испытывать undergo underwent undergone</item>
+        <item>Понимать understand understood understood</item>
+        <item>Предпринимать undertake undertook undertaken</item>
+        <item>Совершать undertake undertook undertaken</item>
+        <item>Уничтожать undo undid undone</item>
+        <item>Огорчать upset upset upset</item>
+        <item>Просыпаться wake woke woken</item>
+        <item>Носить wear wore worn</item>
+        <item>Ткать weave wove wove</item>
+        <item>Жениться wed wed wed</item>
+        <item>Мочить wet wet wet</item>
+        <item>Выигрывать win won won</item>
+        <item>Извиваться wind wound wound</item>
+        <item>Снимать withdraw withdrew withdrawn</item>
+        <item>Удерживать withhold withheld withheld</item>
+        <item>Выдерживать withstand withstood withstood</item>
+        <item>Выжимать wring wrung wrung</item>
+        <item>Писать write wrote written</item>
+    </string-array>
+    <string name="field_number_question"></string>
+    <string name="field_question">QUESTION</string>
+    <string name="field_answer">ANSWER</string>
+    <string name="enter_your_answer">Enter your answer and push button NEXT</string>
+    <string name="show_rigth_question">rigth</string>
+    <string name="show_wrong_question">wrong</string>
+    <string name="number_rigth">1234</string>
+    <string name="button_next">NEXT</string>
+    <string name="show_results">Show Results</string>
+
+</resources>
